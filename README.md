@@ -14,7 +14,7 @@
 </a>
 </p>
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "https://i.gifer.com/UyM0.webp">
 </p>
 ---
 
@@ -65,7 +65,7 @@ hobbies: ["Gaming", "Developer", "Programer"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cpe&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/2cpe/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
