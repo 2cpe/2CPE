@@ -14,7 +14,7 @@
 </a>
 </p>
 <p align="center">
-  <img src= "https://cdn.discordapp.com/attachments/1063850847655702658/1097677318908039308/UyM0.webp">
+  <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDEzNjEwZWQwZjUzMzMxNzljMDQ0ZjRmZDU2NjljMjFlNGIwNjMxMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/9J6zKnZvb2Lfy/giphy.gif">
 </p>
 ---
 
