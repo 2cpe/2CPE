@@ -10,9 +10,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src= "https://cdn.discordapp.com/attachments/953094137513656350/1102493202881183804/ezgif.com-gif-to-webp.webp">
-</p>
+</p> -->
 ---
 
 
