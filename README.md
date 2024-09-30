@@ -62,8 +62,6 @@ hobbies: ["Gaming", "Developer", "Programer"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cpe&theme=noctis_minimus&layout=compact" />
 </a>
 
-              - name: Snake game generator from Github contributions
-                uses: Sutil/snk@v01.00.02
             
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
