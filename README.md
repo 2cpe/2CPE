@@ -62,7 +62,7 @@ hobbies: ["Gaming", "Developer", "Programer"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cpe&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg))
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
