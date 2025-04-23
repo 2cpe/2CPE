@@ -19,32 +19,9 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Script-kids
+name: 2cpe
 located_in: Saudi Arabia
 current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Student in Electrical and Computer Engineering",
-    "Student in Electronics and Communication",
-  ]
-company: Soulber
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-  ]
-technical_background:
-  [
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React Native"]
-2023 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Developer", "Programer"]
 ```
   
