@@ -98,6 +98,12 @@
           srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation"
+       src="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ℹ️ _Animation updates daily. If not visible yet, the [snake action](https://github.com/Platane/snk) needs to run first (check Actions tab)_
+
   <img alt="snake"
        src="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
