@@ -32,7 +32,6 @@
 ⚡ status   : Building awesome things
 🎮 hobbies  : Gaming | Dev | Problem Solving
 🔥 mantra   : "Code is poetry in motion"
-📬 contact  : contact@2cpe.dev
 ```
 
 ```bash
