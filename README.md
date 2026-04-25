@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=2CPE&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Saudi%20Arabia%20🇸🇦&descSize=16&descAlignY=62&descColor=ccc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=2CPE&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Saudi%20Arabia&descSize=16&descAlignY=62&descColor=ccc"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=480&height=40&lines=Building+things+that+matter+⚡;Full+Stack+%7C+Gaming+%7C+Always+Learning;Saudi+Arabia+🇸🇦+%7C+Open+to+collabs" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Building+things+that+matter;Full+Stack+%7C+Gaming+%7C+Always+Learning;Saudi+Arabia+%7C+Open+to+collabs" alt="Typing" />
 
 <br/>
 
@@ -15,16 +15,16 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=2cpe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&border_radius=10&count_private=true&hide=contribs"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=2cpe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&border_radius=10&count_private=true"/>
 
 ### `> whoami`
 
 ```yaml
 handle  : 2cpe
-country : Saudi Arabia 🇸🇦
+country : Saudi Arabia
 role    : Full Stack Developer
 loves   : Gaming · Building · Problem Solving
-status  : Shipping ✨
+status  : Shipping
 ```
 
 <br clear="right"/>
@@ -58,15 +58,11 @@ status  : Shipping ✨
 
 ---
 
-### `> snake --run`
+### `> contributions --heatmap`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</picture>
+[![2cpe's github activity](https://ghchart.rshah.org/58a6ff/2cpe)](https://github.com/2cpe)
 
 </div>
 
