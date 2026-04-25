@@ -1,28 +1,24 @@
 <div align="center">
 
-<!-- ===== ANIMATED HEADER BANNER ===== -->
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d2e,100:0d1117&height=200&section=header&text=2CPE&fontSize=90&fontColor=00ff88&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%F0%9F%87%B8%F0%9F%87%A6&descSize=18&descAlignY=80&descColor=88ffcc"/>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<a href="https://github.com/2cpe">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Architect+%E2%9A%A1;Gaming+%2B+Building+%3D+Life+%F0%9F%8E%AE;Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6+Based+Dev;Always+Shipping+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Architect+%E2%9A%A1;Gaming+%2B+Building+%3D+Life+%F0%9F%8E%AE;Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6+Based+Dev;Always+Shipping+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<!-- ===== BADGES ===== -->
+<!-- BADGES -->
 <img src="https://komarev.com/ghpvc/?username=2cpe&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/2cpe?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/2cpe?style=for-the-badge&color=00ff88&labelColor=0d1117&label=TOTAL+STARS"/>
 
 </div>
 
 ---
 
-<!-- ===== ABOUT ME — TERMINAL STYLE ===== -->
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=2cpe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&border_radius=12"/>
+<!-- ABOUT ME -->
+<img align="right" width="370" src="https://github-readme-stats.vercel.app/api?username=2cpe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&border_radius=12"/>
 
 ```bash
 ┌──(2cpe㉿world)-[~/about]
@@ -47,18 +43,17 @@
 
 ---
 
-<!-- ===== STREAK + TOP LANGS ===== -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2cpe&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=ffdd00&currStreakLabel=00ff88&sideLabels=00ff88&dates=c9d1d9&border_radius=12"/>
+<!-- STREAK + TOP LANGS -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=2cpe&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=ffdd00&currStreakLabel=00ff88&sideLabels=00ff88&dates=c9d1d9&border_radius=12"/>
 &nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cpe&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact&border_radius=12&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cpe&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact&border_radius=12&langs_count=8"/>
 
 </div>
 
 ---
 
-<!-- ===== SKILL ICONS ===== -->
 <div align="center">
 
 ### ⚡ Tech Stack
@@ -83,29 +78,17 @@
 
 ---
 
-<!-- ===== ACTIVITY GRAPH ===== -->
 <div align="center">
 
 ### 📊 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2cpe&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8840&hide_border=true&border_radius=12&custom_title=Contribution%20Timeline)](https://github.com/2cpe)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2cpe&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8840&hide_border=true&radius=12&custom_title=Contribution%20Timeline)](https://github.com/2cpe)
 
 </div>
 
 ---
 
-<!-- ===== 3D CONTRIBUTION CALENDAR ===== -->
-<div align="center">
-
-### 🌌 3D Contribution Grid
-
-[![3D Contributions](https://raw.githubusercontent.com/2cpe/2cpe/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/2cpe)
-
-</div>
-
----
-
-<!-- ===== SNAKE CONTRIBUTION GRAPH ===== -->
+<!-- SNAKE — only shows after you run the Action once (see snake.yml) -->
 <div align="center">
 
 ### 🐍 Watch My Contributions Get Eaten
@@ -115,7 +98,7 @@
           srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation"
+  <img alt="snake"
        src="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
@@ -123,33 +106,9 @@
 
 ---
 
-<!-- ===== TROPHIES ===== -->
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=2cpe&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/2cpe)
-
-</div>
-
----
-
-<!-- ===== WAKATIME STATS ===== -->
-<div align="center">
-
-### 🕐 Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<!-- ===== CONNECT ===== -->
-<div align="center">
-
-### 📡 Find Me Here
+### 📡 Connect
 
 <a href="https://twitter.com/SCutullic">
   <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
@@ -163,11 +122,7 @@
   <img src="https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
