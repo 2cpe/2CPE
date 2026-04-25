@@ -1,142 +1,187 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════ HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header"/>
+<!-- ===== ANIMATED HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a3d2e,100:0d1117&height=200&section=header&text=2CPE&fontSize=90&fontColor=00ff88&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%F0%9F%87%B8%F0%9F%87%A6&descSize=18&descAlignY=80&descColor=88ffcc"/>
 
-```
- ██████╗  ██████╗██████╗ ███████╗
- ╚════██╗██╔════╝██╔══██╗██╔════╝
-  █████╔╝██║     ██████╔╝█████╗
- ██╔═══╝ ██║     ██╔═══╝ ██╔══╝
- ███████╗╚██████╗██║     ███████╗
- ╚══════╝ ╚═════╝╚═╝     ╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=ADBAC7&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Front-end+Engineer+%2F+Systems+Enthusiast;Building+interfaces+%2B+infrastructure;Svelte+%C2%B7+TypeScript+%C2%B7+Lua+%C2%B7+PHP;DMA+%2F+FiveM+%2F+Hardware+%2F+Performance" alt="Typing" />
+<!-- ===== TYPING ANIMATION ===== -->
+<a href="https://github.com/2cpe">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Architect+%E2%9A%A1;Gaming+%2B+Building+%3D+Life+%F0%9F%8E%AE;Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6+Based+Dev;Always+Shipping+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=30363d&label=profile+views&labelColor=161b22"/>
+<!-- ===== PROFILE VIEWS + FOLLOWERS BADGES ===== -->
+<img src="https://komarev.com/ghpvc/?username=2cpe&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/2cpe?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/2cpe?style=for-the-badge&color=00ff88&labelColor=0d1117&label=TOTAL+STARS"/>
 
 </div>
 
-<br/>
-
 ---
 
-## `$ whoami`
+<!-- ===== ABOUT ME — TERMINAL STYLE ===== -->
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=2cpe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&border_radius=12"/>
+
+```bash
+┌──(2cpe㉿world)-[~/about]
+└─$ cat profile.yaml
+```
 
 ```yaml
-role        : Front-end Developer  ·  Systems & Hardware Enthusiast
-focus       : Fast UIs · Scripting · Server Engineering · Hardware Builds
-philosophy  : Self-taught, precision-driven, always shipping
-currently   : Building FiveM/RedM systems · Optimizing DMA setups
-location    : 🇸🇦 Saudi Arabia
+👤 handle   : 2cpe
+🌍 origin   : Saudi Arabia 🇸🇦
+💼 role     : Full Stack Developer
+⚡ status   : Building awesome things
+🎮 hobbies  : Gaming | Dev | Problem Solving
+🔥 mantra   : "Code is poetry in motion"
+📬 contact  : contact@2cpe.dev
 ```
 
-I build **fast, minimal interfaces** with Svelte and TypeScript —
-and when I'm not in the browser, I'm deep in Lua scripting, server architecture,
-or assembling high-performance gaming rigs.  
-From UI components to memory-level hardware access — I bridge the full stack.
+```bash
+└─$ echo "Currently shipping..." && sleep ∞
+```
+
+<br clear="right"/>
 
 ---
 
-## `$ ls ./stack`
-
+<!-- ===== STREAK STATS ===== -->
 <div align="center">
 
-**— Frontend —**
-
-![Svelte](https://img.shields.io/badge/Svelte-1a1a2e?style=flat-square&logo=svelte&logoColor=FF3E00)
-![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square&logo=vite&logoColor=646CFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
-
-**— Backend & Languages —**
-
-![Lua](https://img.shields.io/badge/Lua_5.4-1a1a2e?style=flat-square&logo=lua&logoColor=2C2D72)
-![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=flat-square&logo=php&logoColor=777BB4)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**— Tools & Systems —**
-
-![FiveM](https://img.shields.io/badge/FiveM-1a1a2e?style=flat-square&logo=rockstargames&logoColor=F40552)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2cpe&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=ffdd00&currStreakLabel=00ff88&sideLabels=00ff88&dates=c9d1d9&border_radius=12"/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2cpe&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact&border_radius=12&langs_count=8"/>
 
 </div>
 
 ---
 
-## `$ cat ./expertise`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  FiveM / RedM          Server dev · protection systems       │
-│  DMA Technology        Direct Memory Access tooling          │
-│  Hardware Engineering  High-performance gaming PC builds     │
-│  Svelte + Vite         Zero-overhead reactive UIs            │
-│  Lua 5.4               Game scripting · server-side logic    │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `$ github --stats`
-
+<!-- ===== SKILL ICONS — CORE STACK ===== -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=adbac7&icon_color=539bf5&text_color=768390&ring_color=539bf5&border_radius=8&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide_border=true&bg_color=0d1117&title_color=adbac7&text_color=768390&layout=compact&border_radius=8&langs_count=6"/>
+### ⚡ Tech Stack
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=539bf5&fire=539bf5&currStreakLabel=adbac7&sideLabels=768390&dates=768390&border_radius=8"/>
+**Languages**
 
-</div>
-
----
-
-## `$ git log --graph`
-
-<div align="center">
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=768390&line=539bf5&point=adbac7&area=true&area_color=539bf510&hide_border=true&radius=6&custom_title=contribution+timeline)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-## `$ curl contact`
-
-<div align="center">
-
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/twitter-0d1117?style=flat-square&logo=x&logoColor=adbac7&label=@YOUR_HANDLE&labelColor=161b22"/>
-</a>
-&ensp;
-<a href="https://www.instagram.com/YOUR_INSTAGRAM">
-  <img src="https://img.shields.io/badge/instagram-0d1117?style=flat-square&logo=instagram&logoColor=adbac7&label=@YOUR_HANDLE&labelColor=161b22"/>
-</a>
-&ensp;
-<a href="mailto:YOUR@EMAIL.com">
-  <img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=adbac7&label=reach+out&labelColor=161b22"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,lua,js,php,cs,go,python,bash&theme=dark&perline=8"/>
 
 <br/><br/>
 
-<sub>
-  <code>always open to interesting projects · collaborations · and deep tech conversations</code>
-</sub>
+**Web & Markup**
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=8"/>
+
+<br/><br/>
+
+**Tools & OS**
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim&theme=dark&perline=8"/>
 
 </div>
 
-<br/>
+---
 
-<img width="100%" height="1px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
-
+<!-- ===== ACTIVITY GRAPH ===== -->
 <div align="center">
-<sub><code>built with minimalism · powered by curiosity</code></sub>
+
+### 📊 Contribution Activity
+
+[![2cpe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2cpe&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8840&hide_border=true&border_radius=12&custom_title=Contribution%20Timeline)](https://github.com/2cpe)
+
 </div>
+
+---
+
+<!-- ===== 3D CONTRIBUTION CALENDAR ===== -->
+<div align="center">
+
+### 🌌 3D Contribution Grid
+
+[![3D Contributions](https://github.com/2cpe/2cpe/blob/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/2cpe)
+
+> ℹ️ _Set up [3D contrib action](https://github.com/yoshi389111/github-profile-3d-contrib) in your repo to render this_
+
+</div>
+
+---
+
+<!-- ===== SNAKE CONTRIBUTION GRAPH ===== -->
+<div align="center">
+
+### 🐍 Watch My Contributions Get Eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation"
+       src="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ℹ️ _Animation updates daily. If not visible yet, the [snake action](https://github.com/Platane/snk) needs to run first (check Actions tab)_
+
+</div>
+
+---
+
+<!-- ===== TROPHIES ===== -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=2cpe&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/2cpe)
+
+</div>
+
+---
+
+<!-- ===== WAKATIME STATS ===== -->
+<div align="center">
+
+### 🕐 Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+> _Connect [WakaTime](https://wakatime.com) and add the [waka-readme](https://github.com/athul/waka-readme) action to display live coding stats here_
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<!-- ===== CONNECT ===== -->
+<div align="center">
+
+### 📡 Find Me Here
+
+<a href="https://twitter.com/SCutullic">
+  <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/2cpe/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:contact@2cpe.dev">
+  <img src="https://img.shields.io/badge/Email-00ff88?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===== RANDOM DEV QUOTE ===== -->
+<div align="center">
+
+### 💬 Daily Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<!-- ===== FOOTER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=120&section=footer&animation=twinkling"/>
