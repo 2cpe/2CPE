@@ -10,7 +10,7 @@
 
 <br/>
 
-<!-- ===== PROFILE VIEWS + FOLLOWERS BADGES ===== -->
+<!-- ===== BADGES ===== -->
 <img src="https://komarev.com/ghpvc/?username=2cpe&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/2cpe?style=for-the-badge&color=00ff88&labelColor=0d1117&label=FOLLOWERS"/>
@@ -47,7 +47,7 @@
 
 ---
 
-<!-- ===== STREAK STATS ===== -->
+<!-- ===== STREAK + TOP LANGS ===== -->
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=2cpe&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=ffdd00&currStreakLabel=00ff88&sideLabels=00ff88&dates=c9d1d9&border_radius=12"/>
@@ -58,12 +58,10 @@
 
 ---
 
-<!-- ===== SKILL ICONS — CORE STACK ===== -->
+<!-- ===== SKILL ICONS ===== -->
 <div align="center">
 
 ### ⚡ Tech Stack
-
-<br/>
 
 **Languages**
 
@@ -90,7 +88,7 @@
 
 ### 📊 Contribution Activity
 
-[![2cpe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2cpe&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8840&hide_border=true&border_radius=12&custom_title=Contribution%20Timeline)](https://github.com/2cpe)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2cpe&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8840&hide_border=true&border_radius=12&custom_title=Contribution%20Timeline)](https://github.com/2cpe)
 
 </div>
 
@@ -101,9 +99,7 @@
 
 ### 🌌 3D Contribution Grid
 
-[![3D Contributions](https://github.com/2cpe/2cpe/blob/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/2cpe)
-
-> ℹ️ _Set up [3D contrib action](https://github.com/yoshi389111/github-profile-3d-contrib) in your repo to render this_
+[![3D Contributions](https://raw.githubusercontent.com/2cpe/2cpe/main/profile-3d-contrib/profile-night-green.svg)](https://github.com/2cpe)
 
 </div>
 
@@ -115,12 +111,13 @@
 ### 🐍 Watch My Contributions Get Eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation"
+       src="https://raw.githubusercontent.com/2cpe/2cpe/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
-> ℹ️ _Enable the [snake action](https://github.com/Platane/snk) in your repo (`.github/workflows/snake.yml`) to animate this_
 
 </div>
 
@@ -143,7 +140,6 @@
 ### 🕐 Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
-> _Connect [WakaTime](https://wakatime.com) and add the [waka-readme](https://github.com/athul/waka-readme) action to display live coding stats here_
 <!--END_SECTION:waka-->
 
 </div>
@@ -171,14 +167,10 @@
 
 ---
 
-<!-- ===== RANDOM DEV QUOTE ===== -->
 <div align="center">
 
-### 💬 Daily Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-<!-- ===== FOOTER BANNER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=120&section=footer&animation=twinkling"/>
